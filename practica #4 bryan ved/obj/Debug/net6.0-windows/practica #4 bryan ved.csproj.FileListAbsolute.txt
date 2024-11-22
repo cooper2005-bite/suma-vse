@@ -1,0 +1,16 @@
+C:\Users\Alumnos\Desktop\visual estudio\practica #4 bryan ved\bin\Debug\net6.0-windows\practica #4 bryan ved.exe
+C:\Users\Alumnos\Desktop\visual estudio\practica #4 bryan ved\bin\Debug\net6.0-windows\practica #4 bryan ved.deps.json
+C:\Users\Alumnos\Desktop\visual estudio\practica #4 bryan ved\bin\Debug\net6.0-windows\practica #4 bryan ved.runtimeconfig.json
+C:\Users\Alumnos\Desktop\visual estudio\practica #4 bryan ved\bin\Debug\net6.0-windows\practica #4 bryan ved.dll
+C:\Users\Alumnos\Desktop\visual estudio\practica #4 bryan ved\bin\Debug\net6.0-windows\practica #4 bryan ved.pdb
+C:\Users\Alumnos\Desktop\visual estudio\practica #4 bryan ved\obj\Debug\net6.0-windows\practica__4_bryan_ved.Form1.resources
+C:\Users\Alumnos\Desktop\visual estudio\practica #4 bryan ved\obj\Debug\net6.0-windows\practica #4 bryan ved.csproj.GenerateResource.cache
+C:\Users\Alumnos\Desktop\visual estudio\practica #4 bryan ved\obj\Debug\net6.0-windows\practica #4 bryan ved.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumnos\Desktop\visual estudio\practica #4 bryan ved\obj\Debug\net6.0-windows\practica #4 bryan ved.AssemblyInfoInputs.cache
+C:\Users\Alumnos\Desktop\visual estudio\practica #4 bryan ved\obj\Debug\net6.0-windows\practica #4 bryan ved.AssemblyInfo.cs
+C:\Users\Alumnos\Desktop\visual estudio\practica #4 bryan ved\obj\Debug\net6.0-windows\practica #4 bryan ved.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Desktop\visual estudio\practica #4 bryan ved\obj\Debug\net6.0-windows\practica #4 bryan ved.dll
+C:\Users\Alumnos\Desktop\visual estudio\practica #4 bryan ved\obj\Debug\net6.0-windows\refint\practica #4 bryan ved.dll
+C:\Users\Alumnos\Desktop\visual estudio\practica #4 bryan ved\obj\Debug\net6.0-windows\practica #4 bryan ved.pdb
+C:\Users\Alumnos\Desktop\visual estudio\practica #4 bryan ved\obj\Debug\net6.0-windows\practica #4 bryan ved.genruntimeconfig.cache
+C:\Users\Alumnos\Desktop\visual estudio\practica #4 bryan ved\obj\Debug\net6.0-windows\ref\practica #4 bryan ved.dll
