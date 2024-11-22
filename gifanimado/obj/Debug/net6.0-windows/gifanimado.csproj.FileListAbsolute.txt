@@ -1,0 +1,17 @@
+C:\Users\Alumnos\Desktop\visual estudio\gifanimado\bin\Debug\net6.0-windows\gifanimado.exe
+C:\Users\Alumnos\Desktop\visual estudio\gifanimado\bin\Debug\net6.0-windows\gifanimado.deps.json
+C:\Users\Alumnos\Desktop\visual estudio\gifanimado\bin\Debug\net6.0-windows\gifanimado.runtimeconfig.json
+C:\Users\Alumnos\Desktop\visual estudio\gifanimado\bin\Debug\net6.0-windows\gifanimado.dll
+C:\Users\Alumnos\Desktop\visual estudio\gifanimado\bin\Debug\net6.0-windows\gifanimado.pdb
+C:\Users\Alumnos\Desktop\visual estudio\gifanimado\obj\Debug\net6.0-windows\gifanimado.Form1.resources
+C:\Users\Alumnos\Desktop\visual estudio\gifanimado\obj\Debug\net6.0-windows\gifanimado.Properties.Resources.resources
+C:\Users\Alumnos\Desktop\visual estudio\gifanimado\obj\Debug\net6.0-windows\gifanimado.csproj.GenerateResource.cache
+C:\Users\Alumnos\Desktop\visual estudio\gifanimado\obj\Debug\net6.0-windows\gifanimado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumnos\Desktop\visual estudio\gifanimado\obj\Debug\net6.0-windows\gifanimado.AssemblyInfoInputs.cache
+C:\Users\Alumnos\Desktop\visual estudio\gifanimado\obj\Debug\net6.0-windows\gifanimado.AssemblyInfo.cs
+C:\Users\Alumnos\Desktop\visual estudio\gifanimado\obj\Debug\net6.0-windows\gifanimado.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Desktop\visual estudio\gifanimado\obj\Debug\net6.0-windows\gifanimado.dll
+C:\Users\Alumnos\Desktop\visual estudio\gifanimado\obj\Debug\net6.0-windows\refint\gifanimado.dll
+C:\Users\Alumnos\Desktop\visual estudio\gifanimado\obj\Debug\net6.0-windows\gifanimado.pdb
+C:\Users\Alumnos\Desktop\visual estudio\gifanimado\obj\Debug\net6.0-windows\gifanimado.genruntimeconfig.cache
+C:\Users\Alumnos\Desktop\visual estudio\gifanimado\obj\Debug\net6.0-windows\ref\gifanimado.dll
