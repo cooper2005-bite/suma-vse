@@ -1,0 +1,16 @@
+C:\Users\Alumnos\Desktop\visual estudio\practica #5 vse\bin\Debug\net6.0-windows\practica #5 vse.exe
+C:\Users\Alumnos\Desktop\visual estudio\practica #5 vse\bin\Debug\net6.0-windows\practica #5 vse.deps.json
+C:\Users\Alumnos\Desktop\visual estudio\practica #5 vse\bin\Debug\net6.0-windows\practica #5 vse.runtimeconfig.json
+C:\Users\Alumnos\Desktop\visual estudio\practica #5 vse\bin\Debug\net6.0-windows\practica #5 vse.dll
+C:\Users\Alumnos\Desktop\visual estudio\practica #5 vse\bin\Debug\net6.0-windows\practica #5 vse.pdb
+C:\Users\Alumnos\Desktop\visual estudio\practica #5 vse\obj\Debug\net6.0-windows\practica__5_vse.Form1.resources
+C:\Users\Alumnos\Desktop\visual estudio\practica #5 vse\obj\Debug\net6.0-windows\practica #5 vse.csproj.GenerateResource.cache
+C:\Users\Alumnos\Desktop\visual estudio\practica #5 vse\obj\Debug\net6.0-windows\practica #5 vse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumnos\Desktop\visual estudio\practica #5 vse\obj\Debug\net6.0-windows\practica #5 vse.AssemblyInfoInputs.cache
+C:\Users\Alumnos\Desktop\visual estudio\practica #5 vse\obj\Debug\net6.0-windows\practica #5 vse.AssemblyInfo.cs
+C:\Users\Alumnos\Desktop\visual estudio\practica #5 vse\obj\Debug\net6.0-windows\practica #5 vse.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Desktop\visual estudio\practica #5 vse\obj\Debug\net6.0-windows\practica #5 vse.dll
+C:\Users\Alumnos\Desktop\visual estudio\practica #5 vse\obj\Debug\net6.0-windows\refint\practica #5 vse.dll
+C:\Users\Alumnos\Desktop\visual estudio\practica #5 vse\obj\Debug\net6.0-windows\practica #5 vse.pdb
+C:\Users\Alumnos\Desktop\visual estudio\practica #5 vse\obj\Debug\net6.0-windows\practica #5 vse.genruntimeconfig.cache
+C:\Users\Alumnos\Desktop\visual estudio\practica #5 vse\obj\Debug\net6.0-windows\ref\practica #5 vse.dll
